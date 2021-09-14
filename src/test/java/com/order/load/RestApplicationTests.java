@@ -1,4 +1,4 @@
-package com.order.rest;
+package com.order.load;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
